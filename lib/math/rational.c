@@ -6,6 +6,11 @@
  *
  * helper functions when coping with rational numbers
  */
+/*
+
+Rapolas was here
+
+*/
 
 #include <linux/rational.h>
 #include <linux/compiler.h>
